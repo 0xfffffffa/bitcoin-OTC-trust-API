@@ -31,7 +31,7 @@ Christian-Papathanasious-iMac:Desktop chris$ python otc.py
 ```
 
 To issue a request:
-HTTP POST to <i>/gettrust</i> with <i>from_nick</i> and <i>to_nick</i> parameters set to the two counterparties whose trust levels you wish to obtina.
+HTTP POST to <i>/gettrust</i> with <i>from_nick</i> and <i>to_nick</i> parameters set to the two counterparties whose trust levels you wish to obtain.
 
 <b>Request</b>
 ```
