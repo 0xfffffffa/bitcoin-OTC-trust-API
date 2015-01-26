@@ -20,6 +20,7 @@ Requires access to a daily dump of the RatingSystem.db sqlite3 db which can be f
 <br>
 http://bitcoin-otc.com/otc/
 <br>
+<br>
 I suggest you have a cronjob which dumps this nightly.
 
 
