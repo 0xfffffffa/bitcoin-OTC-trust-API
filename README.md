@@ -1,5 +1,5 @@
 # bitcoin-OTC-trust-API
-# C. Papathanasiou 2015
+C. Papathanasiou 2015
 
 For a project,  I needed an API to obtain #bitcoin-otc trust scores. Such an API is not publicly accessible, so I decided to build one instead based on source code of the #bitcoin-otc Gribble bot:
 <br>
@@ -27,7 +27,7 @@ Christian-Papathanasious-iMac:Desktop chris$ python otc.py
 ```
 
 To issue a request:
-HTTP POST to /gettrust with <i>from_nick</i> and <i>to_nick</i> parameters set to the two counterparties whose trust levels you wish to obtina.
+HTTP POST to <i>/gettrust</i> with <i>from_nick</i> and <i>to_nick</i> parameters set to the two counterparties whose trust levels you wish to obtina.
 
 <b>Request</b>
 ```
