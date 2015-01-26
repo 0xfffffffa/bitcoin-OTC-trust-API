@@ -6,8 +6,11 @@ For a project,  I needed an API to obtain #bitcoin-otc trust scores. Such an API
 https://github.com/nanotube/supybot-bitcoin-marketmonitor/blob/master/RatingSystem/plugin.py
 
 The API server depends on:
+<br>
 Python Tornado
+<br>
 MySQLdb
+<br>
 sqlite3
 
 
