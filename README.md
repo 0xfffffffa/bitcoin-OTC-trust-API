@@ -1,7 +1,7 @@
 # bitcoin-OTC-trust-API
 C. Papathanasiou 2015
 
-For a project,  I needed an API to obtain #bitcoin-otc trust scores. Such an API is not publicly accessible, so I decided to build one instead based on source code of the #bitcoin-otc Gribble bot:
+I needed an API to obtain #bitcoin-otc trust scores returning the result in JSON. Such an API is not publicly accessible, so I decided to build one instead based on source code of the #bitcoin-otc Gribble bot:
 <br>
 https://github.com/nanotube/supybot-bitcoin-marketmonitor/blob/master/RatingSystem/plugin.py
 
